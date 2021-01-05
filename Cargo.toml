@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "display_adapter",
+    "display_adapter_attr",
+]

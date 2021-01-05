@@ -1,0 +1,8 @@
+[package]
+name = "display_adapter"
+version = "0.1.0"
+authors = ["Zach Wolfe <zachrwolfe@me.com>"]
+edition = "2018"
+
+[dependencies]
+display_adapter_attr = { path = "../display_adapter_attr" }
