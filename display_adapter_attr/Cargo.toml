@@ -1,8 +1,11 @@
 [package]
 name = "display_adapter_attr"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Zach Wolfe <zachrwolfe@me.com>"]
 edition = "2018"
+description = "A proc macro for defining ad-hoc Display adapters"
+license-file = "../LICENSE"
+repository = "https://github.com/zachwolfe/display_adapter"
 
 [dependencies]
 syn = { version = "1.0", features = ["full"] }
